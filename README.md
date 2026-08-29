@@ -5,7 +5,7 @@ https://ant-san.itch.io/prinhero
 IMAGENES DE LA TRADUCCION:
 <img width="1278" height="746" alt="image" src="https://github.com/user-attachments/assets/cea8ba44-849a-4e2f-80ac-bb372641b1e8" />
 <img width="1273" height="741" alt="image" src="https://github.com/user-attachments/assets/93d628da-d9e0-4766-8a2f-a8f567a09fb8" />
-<img width="1276" height="743" alt="image" src="https://github.com/user-attachments/assets/93870f20-8a57-4ae9-a96f-498f1f06f104" />
+<img width="1278" height="747" alt="image" src="https://github.com/user-attachments/assets/16269293-35df-4542-a24a-7860768727c3" />
 
 
 DESCARGA EL ARCHIVO .ZIP ARRIBA
